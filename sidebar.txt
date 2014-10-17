@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfm:home|Door43 (kfm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfm|d43-kfm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfm/archive/master.zip|d43-kfm.zip]]
+
+**Recent Changes**
+{{changes>ns = kfm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfm|Ethnologue data]]
+
